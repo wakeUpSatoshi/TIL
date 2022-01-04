@@ -1,0 +1,31 @@
+04-01-2022 TIL(Today I Learned)
+
+오늘 한 일
+
+- 부트캠프를 설치하고나서 git과 openjdk 그리고 eclipse설치하였다.
+
+- git과 Github에 대해서 공부하였고
+
+온라인 github 저장소에 .gitignore 를 추가하였다. //.gitignore를 추가한 이유는 Java코드만 관리하기 위해 무시해야하는 목록을 만들기 위함이다.
+
+Github Desktop을 설치 한 다음 TIL 폴더를 clone을 하였다.
+
+- 자바의 정석 기초강의에서 내주는 예제를 이클립스를 실행하여 코드작성하여
+
+Hello World 라는 코드를 콘솔창에 출력할 수 있었다. 
+
+그리고 소스파일을 저장하고 그 파일이 있는 workspace 폴더를 github와 연동하여 clone하고 싶어서 시도를 해 보았지만
+
+헷갈리는 부분이 있어 연동을 하지 못하였다.
+
+조금 더 알아보고 clone 시도를 해야겠다.
+
+- 오늘은 일정이 있어서 다소 많은 시간을 공부에 할애하지 못해서 아쉬웠다.
+
+
+내일 할 일
+
+- Github Desktop에서 clone 하는 방법을 다시 배우고, eclipse와 github를 연동하여 clone하는 방법을 알아봐야겠다.
+
+- 자바관련 문법공부를 시작해야겠다.
+
