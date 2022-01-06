@@ -1,5 +1,3 @@
-#JAVA
-
-JAVA
+# JAVA
 
 README
