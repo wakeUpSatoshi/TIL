@@ -2,7 +2,8 @@
 public class example2_7 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//예제 02_07
+		
 		String name = "Ja" + "va";
 		String str = name + 8.0;
 		

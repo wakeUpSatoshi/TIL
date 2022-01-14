@@ -2,7 +2,8 @@
 public class example2_6 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//예제 02_06
+		
 		int x = 100;
 		double pi = 3.14;
 		char ch = 'a';

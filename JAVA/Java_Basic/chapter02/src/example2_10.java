@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class example2_10 {
 
 	public static void main(String[] args) {
+		//예제 02_10
+		
 		Scanner scanner = new Scanner(System.in);
 	
 		System.out.println("두자리 정수를 하나 입력해주세요.>");

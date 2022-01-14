@@ -2,7 +2,8 @@
 public class example2_8 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//예제 02_08
+		
 		int x = 10, y = 5; //int x = 10; int y = 5; 를 한 줄로
 		System.out.println("x="+x);
 		System.out.println("y="+y);
